@@ -1,16 +1,21 @@
-# flamebamboo-theme README
+# FlameBamboo Theme
+## Dark theme
 
-## Working with Markdown
+I can gurantee bugs will avoid your code because it is only attracted to light!
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+This theme is inspired by the colors of real bamboo and flame, inherited from my own username. It's a cool dark theme designed for Visual Studio Code.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## Installation
 
-## For more information
+1. Open Visual Studio Code.
+2. Go to Extensions.
+3. Search for FlameBamboo Theme and install it.
+4. Go to Color Themes and choose FlameBamboo as the color theme.
+5. Or, press `Ctrl+Shift+P` or `Cmd+Shift+P` and type `color theme`, then select FlameBamboo from the list.
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Usage
 
-**Enjoy!**
+1. Open the Command Palette (`Ctrl+Shift+P` or `Cmd+Shift+P`).
+2. Select `Color Theme`.
+3. Choose `FlameBamboo Theme` from the list of available themes.
+
