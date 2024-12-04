@@ -1333,6 +1333,7 @@
         "foreground": "#45d97f"
       }
     },
+
     {
       "name": "js Flowtype",
       "scope": ["support.type.type.flowtype"],
@@ -1844,8 +1845,8 @@
     "editor.lineHighlightBorder": "#848484",
     "editorLineNumber.activeForeground": "#ffffff",
     "editorLink.activeForeground": "#4e94ce",
-    "editorIndentGuide.background1": "#7d6d6d",
-    "editorIndentGuide.activeBackground1": "#d91717",
+    "editorIndentGuide.background1": "#7d6d6d88",
+    "editorIndentGuide.activeBackground1": "#d91717a3",
     "editorRuler.foreground": "#5a5a5a",
     "editorBracketMatch.background": "#0064001a",
     "editorBracketMatch.border": "#888888",

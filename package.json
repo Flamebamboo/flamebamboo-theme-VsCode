@@ -3,6 +3,28 @@
   "displayName": "FlameBamboo Theme",
   "description": "",
   "version": "0.0.1",
+  "publisher": "FlameBamboo",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Flamebamboo/flamebamboo-theme.git"
+  },
+  
+  "keywords": [
+    "theme",
+    "dark",
+    "color",
+    "flamebamboo",
+    "best theme",
+    "react theme",
+    "vscode",
+    "editor",
+    "syntax highlighting",
+    "developer",
+    "programming",
+    "code"
+  ],
+
+  
   "engines": {
     "vscode": "^1.95.0"
   },
