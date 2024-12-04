@@ -1,9 +1,14 @@
 # FlameBamboo Theme
+
 ## Dark theme
 
 I can gurantee bugs will avoid your code because it is only attracted to light!
 
 This theme is inspired by the colors of real bamboo and flame, inherited from my own username. It's a cool dark theme designed for Visual Studio Code.
+
+## Preview
+
+![JavaScript Preview](Sample.png)
 
 ## Installation
 
@@ -18,4 +23,3 @@ This theme is inspired by the colors of real bamboo and flame, inherited from my
 1. Open the Command Palette (`Ctrl+Shift+P` or `Cmd+Shift+P`).
 2. Select `Color Theme`.
 3. Choose `FlameBamboo Theme` from the list of available themes.
-
