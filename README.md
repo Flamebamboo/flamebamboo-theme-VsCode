@@ -10,16 +10,9 @@ This theme is inspired by the colors of real bamboo and flame, inherited from my
 
 ![JavaScript Preview](Sample.png)
 
-## Installation
+## Installation Locally (not available on marketplace)
 
-1. Open Visual Studio Code.
-2. Go to Extensions.
-3. Search for FlameBamboo Theme and install it.
-4. Go to Color Themes and choose FlameBamboo as the color theme.
-5. Or, press `Ctrl+Shift+P` or `Cmd+Shift+P` and type `color theme`, then select FlameBamboo from the list.
-
-## Usage
-
-1. Open the Command Palette (`Ctrl+Shift+P` or `Cmd+Shift+P`).
-2. Select `Color Theme`.
-3. Choose `FlameBamboo Theme` from the list of available themes.
+1. Clone the theme repository to your local machine
+2. Copy the entire theme folder to your VS Code extensions directory
+3. Go to Color Themes and choose FlameBamboo as the color theme.
+4. Or, press `Ctrl+Shift+P` or `Cmd+Shift+P` and type `color theme`, then select FlameBamboo from the list.
